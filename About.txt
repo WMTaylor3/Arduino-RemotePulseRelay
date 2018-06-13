@@ -1,0 +1,13 @@
+Arduino Project #1. Pule Transmitter/Reciever.
+Start Date: April 18th 2017
+Completion Date: Not yet complete.
+Refactoring/Cleaning: None.
+
+Device intended to be used in pairs.
+Records the user’s heartbeat and the exact intervals between them using a pulse sensor and transmits the information via MQTT over an ESP8266 to the other device.
+At the other end, the pulse is recreated through the use of a haptic motor.
+The same occurs simultaneously back the other way.
+
+This project was my first (somewhat ambitious) attempt at working with Arduino.
+As such it is incomplete, messy and will likely remain as such until I have sufficient time to revisit it.
+I do wish to complete it though.
